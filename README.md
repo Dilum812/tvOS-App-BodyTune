@@ -1,6 +1,5 @@
 # BodyTune — tvOS App (README)
 
-Small README / developer note for the tvOS SwiftUI app you provided. This covers project purpose, structure, how to run, important implementation notes, and quick pointers for modification and debugging.
 
 ---
 
@@ -86,19 +85,3 @@ You can use these local paths/URLs for the files in the environment:
 * Add haptic/sound cues via tvOS-supported audio when intervals change.
 * Add remote-focused keyboard input (for name entry) or a custom on-screen keyboard for tvOS.
 * Add unit tests for `WorkoutSession.moveToNextPhase()` edge cases (round wrap, completion).
-
----
-
-## Licensing & attribution
-
-* This is a small internal/demo project; add a LICENSE file to your repo if you plan to share publicly.
-
----
-
-If you want, I can:
-
-* Produce a `README.md` file formatted and ready to drop in the repo (I can include the file content here).
-* Produce a minimal `Package.swift` or Xcode project settings snippet (entitlements / Info.plist keys) for tvOS.
-* Convert these local paths into downloadable links or zip them together (I can prepare a zip content listing).
-
-Tell me which of those you'd like and I'll generate it right away (I already see the files you uploaded and can include them).
